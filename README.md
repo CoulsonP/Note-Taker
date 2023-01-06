@@ -12,7 +12,7 @@ This application is used for someone who needs to keep and store notes.
 * Open the application
 * Select get started
 * Type in the note title and text boxes
-* Select save to store notes
+* Select save icon to store notes
 
 ## Screenshots
 ![Screenshot 2023-01-04 at 6 03 56 PM](https://user-images.githubusercontent.com/114447565/210912560-fee23b65-34b3-4774-b72a-e79c4c22c839.png)
